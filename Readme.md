@@ -4,8 +4,8 @@ A sleek and responsive ToDo web app that helps users manage daily tasks with sim
 
 ## 🚀 Live Demo
 
-[Click here to use ToDoOP](https://your-live-demo-link.com)  
-*(Replace with your actual Netlify/Vercel URL)*
+[Click here to use ToDoOP](https://todo-app-4pvg.vercel.app/)  
+
 
 ---
 
@@ -24,13 +24,11 @@ A sleek and responsive ToDo web app that helps users manage daily tasks with sim
 - **HTML5**
 - **CSS3**
 - **JavaScript**  
-*(If you're using React, Tailwind, or others, add them too)*
+- **React**
+- **Tailwind CSS**
 
 ---
 
-## 📸 Screenshots
-
-*(Insert screenshots or GIFs of your app here)*
 
 ---
 
